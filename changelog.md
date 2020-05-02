@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.0] - 2020-05-02
+- Added data-modal-first-focus attribute to control modal first focusable child
+- Fixed issue when drawer was open by default (close button not working)
+
 ## [1.0.2] - 2019-11-04
 - Added closeModal custom event
 
