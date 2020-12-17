@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2020-12-16
+- Added data-modal-prevent-scroll attribute to prevent the underlying content from scrolling while the modal is open
+
 ## [1.1.1] - 2020-05-14
 - Fixed issue with data-modal-first-focus attribute
 
